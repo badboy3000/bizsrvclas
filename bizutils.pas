@@ -1,7 +1,6 @@
 unit bizutils;
 
 {$mode objfpc}{$H+}
-{$define EBIZMIS}
 
 interface
 
